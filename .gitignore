@@ -1,0 +1,6 @@
+/*
+!/.hermes/
+!/protein_api_sif_bundle/
+
+# 保留 .gitignore 自身
+!/.gitignore
